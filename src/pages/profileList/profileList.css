@@ -1,0 +1,34 @@
+.profileList{
+    flex: 4;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.profileList h1{
+    color: #00aae4;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.profileListDelete{
+    color: red;
+    cursor: pointer;
+    
+}
+
+.profileListEdit{
+    color: green;
+    cursor: pointer;
+}
+
+.linkListEdit{
+    text-align: center;
+}
+
+.botonInsertar{
+    float: right;
+}

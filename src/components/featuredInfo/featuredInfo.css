@@ -1,0 +1,52 @@
+.featured {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.featuredItem {
+    flex: 1;
+    margin: 0px 20px;
+    padding: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 0px 11px -1px gray;
+    box-shadow: 0px 0px 5px -1px gray;
+    text-align: center;
+}
+
+.featuredTitle {
+    font-size: 40px;
+}
+
+.featuredMoneyContainer {
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.featuredMoney {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.featuredSub {
+    font-size: 15px;
+    color: gray;
+}
+
+.imgRut {
+    width: 120px;
+    height: 60px;
+}
+
+.fotoMapa {
+    width: 80px;
+    height: 60px;
+}
+.fotoRutina {
+    width: 70px;
+    height: 50px;
+}

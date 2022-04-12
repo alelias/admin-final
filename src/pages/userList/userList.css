@@ -1,0 +1,34 @@
+.userList{
+    flex: 4;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.userList h1{
+    color: #00aae4;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.userListDelete{
+    color: red;
+    cursor: pointer;
+    
+}
+
+.userListEdit{
+    color: green;
+    cursor: pointer;
+}
+
+.linkListEdit{
+    text-align: center;
+}
+
+.botonInsertar{
+    float: right;
+}
