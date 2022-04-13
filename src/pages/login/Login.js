@@ -45,9 +45,14 @@ const Login = () => {
         })
         
     }
+    const logo = '../../img/calisteni.jpeg'
 
     return ( 
         <div className="login">
+
+            <div className='logo'>
+                <img src={logo} alt="Logo" style={{width: 200, height:200}}  />
+            </div>
             
             <form className="loginForm">
             <h2>Calistenia APP</h2>

@@ -29,7 +29,7 @@ export default function WidgetRg() {
 
     return (
         <div className="widgetRg">
-            <h3 className="widgetRgTitle">Ultima Noticias</h3>
+            <h3 className="widgetRgTitle">Ultima Noticia</h3>
             <table className="widgetRgTable">
                 <tr className="widgetRgTr">
                     <th className="widgetRgTh">Nombre</th>

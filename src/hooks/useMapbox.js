@@ -1,5 +1,7 @@
+/* eslint import/no-webpack-loader-syntax: off */
+
 import {useRef,useState, useEffect, useCallback}  from 'react'
-import mapboxgl from 'mapbox-gl'
+import mapboxgl from '!mapbox-gl'
 import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder'
 const axios = require("axios");
 

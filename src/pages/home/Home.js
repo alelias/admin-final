@@ -5,9 +5,12 @@ import "./home.css"
 import WidgetLg from '../../components/widgetLg/WidgetLg'
 import WidgetRg from '../../components/widgetRg/WidgetRg'
 
+
 export default function Home() {
     return (
         <div className="home">
+            
+            
             <FeaturedInfo />
 
            <WidgetLg />

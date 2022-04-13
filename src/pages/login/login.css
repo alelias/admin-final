@@ -15,6 +15,11 @@ h2{
     text-align: center;
 }
 
+.logo{
+    text-align: center;
+    padding-right: 50px;
+  }
+
 .loginInput{
     margin-bottom: 10px;
     padding: 5px;
